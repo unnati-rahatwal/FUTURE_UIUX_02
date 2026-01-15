@@ -55,7 +55,6 @@ Calmé aims to provide a calm, intuitive, and user-friendly experience that enco
 
 ## 🔗 Interactive Prototype
  - View Figma Prototype:  
-👉 https://www.figma.com/design/2GhBvCNIZsUGM1Nd4zuZhj/Calm%C3%A9?node-id=0-1&t=vziIVEneW2O6oOVk-1
-
+👉 https://www.figma.com/proto/2GhBvCNIZsUGM1Nd4zuZhj/Calm%C3%A9?node-id=3-2&t=WfBWs8WGazkH1kZz-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2
 ---
 
